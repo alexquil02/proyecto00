@@ -13,7 +13,7 @@
                 </li>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?=base_url('Provincia-listar')?>">Listar</a>
+                    <a class="nav-link" href="<?=base_url('Provincia-listar')?>">Productos</a>
                 </li>
                 
                 <li class="nav-item">
