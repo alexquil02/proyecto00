@@ -29,29 +29,29 @@
 <form action="<?=base_url('/Provincia-guardar')?>" method="post" enctype="multipart/form-data" class="form">
     <div class="formContent">
         <div>
-            <label style="font-family:Cascadia Mono ;" for="Nombre">Nombre</label>
+            <label style="font-family:Cascadia Mono ;" for="Nombre">NOMBRE</label>
             <input type="text" name="NAME" id="NAME" class="form-control">
         </div>
         <div>
-            <label style="font-family:Cascadia Mono ;" for="Nombre">Marca</label>
+            <label style="font-family:Cascadia Mono ;" for="Nombre">MARCA</label>
             <input type="text" name="CAPITAL" id="CAPITAL" class="form-control">
         </div>
         <div>
-            <label style="font-family:Cascadia Mono ;" for="Nombre">Descripcion</label>
+            <label style="font-family:Cascadia Mono ;" for="Nombre">DESCRIPCION</label>
             <input type="text" name="DESCRIPTION" id="DESCRIPTION" class="form-control">
         </div>
         <div>
-            <label style="font-family:Cascadia Mono ;" for="Nombre">Precio</label>
+            <label style="font-family:Cascadia Mono ;" for="Nombre">PRECIO</label>
             <input type="text" name="REGION" id="REGION" class="form-control">
         </div>
         <div>
-            <label style="font-family:Cascadia Mono ;" for="Nombre">Imagen</label>
+            <label style="font-family:Cascadia Mono ;" for="Nombre">IMAGEN</label>
             <input type="file" name="IMAGE" id="IMAGE" class="form-control">
         </div>
     </div>
     <div class="btn-Container">
         <div>
-            <input style="font-family: Aharoni;" type="submit" value="Guardar" class="btn btn-danger">
+            <input style="font-family: Aharoni;" type="submit" value="GUARDAR" class="btn btn-info">
         </div>
     </div>
 </form>
