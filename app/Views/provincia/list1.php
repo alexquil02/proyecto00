@@ -22,7 +22,7 @@ Su objetivo primordial es el de siempre brindar un servicio ameno a sus clientes
   <div class="row">
     <div class="col-12 col-md-6 col-lg-4">
     <div class="card" style="width: 18rem;">
-  <img src="./imagen/derechos.jpg" class="card-img-top" alt="...">
+  <img src="./img/img1.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">productos de primera necesidad </h5>
     <p class="card-text"></p>
@@ -42,7 +42,7 @@ Su objetivo primordial es el de siempre brindar un servicio ameno a sus clientes
     </div>
     <div class="col-12 col-md-6 col-lg-4">
     <div class="card" style="width: 18rem;">
-  <img src="./imagen/obligaciones.jpg" class="card-img-top" alt="...">
+  <img src="./img/img2.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">HIGIENE PERSONAL </h5>
     <p class="card-text"></p>
@@ -61,7 +61,7 @@ Su objetivo primordial es el de siempre brindar un servicio ameno a sus clientes
     </div>
     <div class="col-12 col-md-6 col-lg-4">
     <div class="card" style="width: 18rem;">
-  <img src="./imagen/noticias.jpg" class="card-img-top" alt="...">
+  <img src="./img/img3.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">PROMOCIONES </h5>
     <p class="card-text"></p>
