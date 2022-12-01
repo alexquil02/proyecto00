@@ -86,6 +86,46 @@ Su objetivo primordial es el de siempre brindar un servicio ameno a sus clientes
 <div class ="text-center">
 <img src="./img/img1.png" class="img-fluid" alt="...">
 </div>
+<h1>TU OPINION ES IMPORTANTE </h1>
+<p>Dejanos saber cual es tu opinion de nuestra empresa y los servicios que ofrecemos.  </p>
+    <form action="">
+    <div class="form-group">
+  <label for="nombre">NOMBRE:</label>
+  <input type="text" name="nombre" id="nombre" class="form-control" placeholder="Ej;Jhandry ">
+
+</div>
+</form>
+<form action="" method="POST">
+    <div class="form-group">
+  <label for="apellido">APELLIDO:</label>
+  <input type="text" name="apellido" id="apellido" class="form-control" placeholder="Ej;Pinzón">
+
+</div>
+
+<div>
+  <label for="email">CORREO ELECTRONICO:</label>
+<input type="email" id="email"
+       pattern=".+@globex\.com" size="30" required>
+       
+</div>
+       <fieldset>
+    <legend>¿Que seccion te gusta mas de nuestra empresa?</legend>
+
+    <div>
+      <input type="radio" id="huey" name="drone" value="huey"
+             checked>
+      <label for="huey">EMBUTIDOS </label>
+    </div>
+
+    <div>
+      <input type="radio" id="dewey" name="drone" value="dewey">
+      <label for="dewey">SNACKS</label>
+    </div>
+
+    <div>
+      <input type="radio" id="louie" name="drone" value="louie">
+      <label for="louie">LACTEOS</label>
+    </div>
 </fieldset>
 <button type="button" class ="btn btn-primary">Enviar</button>
 </form>
