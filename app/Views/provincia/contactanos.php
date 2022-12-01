@@ -31,6 +31,17 @@
             <br>
             <div class="row justify-content-center">
                 <div class="col-4">
+                    <select id="inputState" class="form-control">
+                        <option selected>Elija una opcion...</option>
+                        <option>Volverse Proveedor</option>
+                        <option>Avisar de alguna falla</option>
+                        <option>Pertenecer a nuestro equipo</option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <div class="row justify-content-center">
+                <div class="col-4">
                     <textarea class="form-control" id="message" name="message" placeholder="Introduzca su mensaje para nosotros aquí. Nos pondremos en contacto con usted dentro de 2 días hábiles." rows="7"></textarea>
                 </div>
             </div>
